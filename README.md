@@ -1,4 +1,4 @@
-# Market-Sales-Performance---Furniture-Store
+# Market-Sales-Performance-Furniture-Store
 
 ![](https://github.com/rubytechme/Market-Sales-Performance---Furniture-Store/blob/main/furnirture%20dash.png)
 
